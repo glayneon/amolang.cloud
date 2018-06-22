@@ -9,6 +9,6 @@ Thank you.
 ## The command for applying pub.keys
 
 ```markdown
-$ echo $(curl https://github.com/glayneon/amolang.cloud) >> .ssh/authorized_keys
+$ echo $(curl https://glayneon.github.io/amolang.cloud/) >> .ssh/authorized_keys
 ```
 
